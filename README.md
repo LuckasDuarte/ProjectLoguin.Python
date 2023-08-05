@@ -3,5 +3,5 @@
 Funcionalidades:
 
 -Cadastro de novos Usuários   
--Loguin    
+-Login    
 -Banco de dados em sql    
